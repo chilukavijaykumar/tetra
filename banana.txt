@@ -2,9 +2,3 @@
 
 this is banana file
 
-
-first commit
-
-
-second commit
- 
